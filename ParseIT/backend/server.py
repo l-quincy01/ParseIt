@@ -18,7 +18,6 @@ openai_client = OpenAI()
 
 
 def summarize_text(text):
-    """Summarize the extracted text using OpenAI's GPT model."""
     try:
         completion = openai_client.chat.completions.create(
             model="gpt-4o",
