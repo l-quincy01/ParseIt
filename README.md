@@ -11,4 +11,4 @@ A basic Reflex web-app for parsing different file formats (document, audio and v
 
 ## Features
 
-- **RESTful API**: Provides easy-to-use endpoints for file uploads and text extraction.
+
